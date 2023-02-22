@@ -1,1 +1,1 @@
-A simple UNIX command interpreter written as part of the low-level programming and algorithm track at Alx.
+A simple UNIX Shello Project Build With C.
