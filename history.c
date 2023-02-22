@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * authors: Raymond Omoraka and Victoria Iberumu
+ * authors:Adedoyin Emmanuel and Nasrudeen Fawaz
  * history_dis - Display History Of User Input Simple Shell
  * @c:Parsed Command
  * @s:Statue Of Last Excute

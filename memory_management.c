@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * authorz: Raymond Omoraka and Victoria Iberumu
+ * authorz: Adedoyin Emmanuel and Nasrudeen Fawaz
  **_realloc -  Reallocates A Memory Block Using Malloc And Free
  *@ptr: Pointer
  *@old_size: Previous Size Of The Pointer

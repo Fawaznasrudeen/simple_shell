@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * authors:Raymond Omoraka and Victoria Iberumu
+ * authors:Adedoyin Emmanuel and Nasrudeen Fawaz
  *  _prerror - Print Custome Error
  * @argv:Program Name
  * @c:Error Count

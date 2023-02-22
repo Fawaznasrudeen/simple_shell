@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * authors:Raymond Omoraka and Victoria Iberumu
+ * authors:Adedoyin Emmanuel and Nasrudeen Fawaz
  * parse_cmd - Parse Line Of Input
  * @input:User Input To Parse
  * Return: Array Of Char (Parsed):Simple Shell

@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * authors: Raymond Omoraka and Victoria Iberumu
+ * authors:Adedoyin Emmanuel and Nasrudeen Fawaz
  * path_cmd -  Search In $PATH For Excutable Command
  * @cmd: Parsed Input
  * Return: 1  Failure  0  Success.

@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * authors:Raymond Omoraka and Victoria Iberumu
+ * authors:Adedoyin Emmanuel and Nasrudeen Fawaz
  * read_file - Read Command From File
  * @filename:Filename
  * @argv:Program Name
